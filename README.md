@@ -17,11 +17,11 @@ Generate a Speedomoter overlay for your video from a speed graphover time graph!
 6. The video will be rendered, and exported to the app folder directory
 
 ## Example
-1. Screenshot
+1. Screenshot\
 ![image](https://user-images.githubusercontent.com/53892067/199867933-97ee9664-3a44-4afa-a0c7-9b36da8ce98e.png)
-2. Trace
+2. Trace\
 ![image](https://user-images.githubusercontent.com/53892067/199867964-49ea6c2a-16bb-4856-b7c6-2b84965b5cf3.png)
-3. Trace Data
+3. Trace Data\
 ![image](https://user-images.githubusercontent.com/53892067/199868051-86dd6a45-d259-42c6-8241-484016d8e587.png)
-4. Output
+4. Output\
 ![image](https://user-images.githubusercontent.com/53892067/199868119-533e6ff9-8c3e-4d92-b908-c27acdc699e9.png)
