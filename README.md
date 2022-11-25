@@ -1,5 +1,5 @@
 # MapMyRide-Speedometer
-Generate a Speedomoter overlay for your video from a speed graphover time graph!
+https://youtu.be/syajaB8xJ7k Generate a Speedomoter overlay for your video from a speed graphover time graph!
 
 ## Dependencies
 - moviepy
